@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Briefcase-Version: 0.3.11
+Name: todo
+Formal-Name: To Do
+App-ID: ml.amarquaye.todo
+Version: 0.0.1
+Home-page: https://amarquaye.ml/todo
+Download-URL: https://amarquaye.ml/todo
+Author: Jesse Amarquaye
+Author-email: llordjesse@gmial.com
+Summary: A simple to do app written using beeware

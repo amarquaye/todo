@@ -1,0 +1,4 @@
+The app should have a series of boxes in a column to signify every schedule.
+An add button should also be beneath the first box to enable the user to add more tasks.
+The app should ask the user the time he wants to perform the action.
+Finally, the task must be added to a list of tasks.
